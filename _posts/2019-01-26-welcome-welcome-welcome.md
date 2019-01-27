@@ -71,4 +71,4 @@ MBTI, or Myers-Briggs, was created by two women who used some of the theories fr
 
 In any case, I created this blog series to write about my learning on MBTI/Jungian theories in hopes of clarifying some common misconceptions and just have fun with some of my findings! :) After all, these theories are not full depictions of human minds but rather provide some interesting perspectives.&nbsp;
 
-Hope you find some good reads!
+Hope you find some good reads!&nbsp;
