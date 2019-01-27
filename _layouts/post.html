@@ -7,6 +7,10 @@ layout: default
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
+	<div class="recipe-body">
+		{{ content }}
+	</div>
+
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
