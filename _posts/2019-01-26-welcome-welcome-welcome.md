@@ -1,6 +1,6 @@
 ---
 date: 2019-01-26 00:00:00
-title: The Typical INFJ Experience
+title: Welcome welcome welcome!
 categories:
   - Psychology
   - MBTI
@@ -63,16 +63,12 @@ recipe:
     2. Frost cupcakes as you use them.
 ---
 
-These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
+So I've been exploring the famous MBTI since 2017 and found so much more than the initial assessment. Many think of this personality test as the end-all to the letters.&nbsp;
 
-![Cupcakes](https://images.unsplash.com/photo-1448131063153-f1e240f98a72?w=1560&amp;h=940&amp;fit=crop)
+But wait! It's much more.&nbsp;
 
-You can never go wrong with sprinkles.
+MBTI, or Myers-Briggs, was created by two women who used some of the theories from Carl Jung, the Swiss psychologist. Jung's original theories are actually not personality traits, but rather ***cognitive functions***. Which means that he was theorizing about how the human mind works by building frameworks about perception and judgment. It's not unreasonable for M-B to create a personality test and theory based on Jung's theories, but it's limited at best, to only rely on MBTI. One must go back to the source of Jung's theories to truly appreciate the types.&nbsp;
 
-![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&amp;h=940&amp;fit=crop)
+In any case, I created this blog series to write about my learning on MBTI/Jungian theories in hopes of clarifying some common misconceptions and just have fun with some of my findings! :) After all, these theories are not full depictions of human minds but rather provide some interesting perspectives.&nbsp;
 
-Milk is a great addition to any cupcake experience.
-
-![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&amp;h=940&amp;fit=crop)
-
-Why not add some popcorn?
+Hope you find some good reads!
