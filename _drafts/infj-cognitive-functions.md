@@ -1,5 +1,5 @@
 ---
-title:
+title: INFJ Cognitive Functions
 categories:
 date:
 featured_image:
