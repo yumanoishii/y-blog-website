@@ -12,8 +12,6 @@ recipe:
   directions_markdown:
 ---
 
-# Self Reflection
-
 Let's get personal!
 
 The past couple of years, I've been through a lot of trauma and personal challenges. Coming out from the ashes from burned bridges, self-destruction and disillusionment, I feel like a phoenix, reborn from the past, better, stronger and most importantly, able to move forward.&nbsp;
