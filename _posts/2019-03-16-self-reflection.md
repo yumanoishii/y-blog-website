@@ -18,13 +18,13 @@ Let's get personal!
 
 The past couple of years, I've been through a lot of trauma and personal challenges. Coming out from the ashes from burned bridges, self-destruction and disillusionment, I feel like a phoenix, reborn from the past, better, stronger and most importantly, able to move forward.&nbsp;
 
-One of the most important lessons I learned -- and still learning -- is standing up for myself. I loathed the idea of self-care because I saw it as white feminist bullshit and frankly, shallow.&nbsp;
+One of the most important lessons I learned – and still learning – is standing up for myself. I loathed the idea of self-care because I saw it as white feminist bullshit and frankly, shallow.&nbsp;
 
-But over the years, I learned it the hard way that self love -- and true self-love, not narcissism -- is so, so important, especially for someone who lives through the world as a woman. With that comes self-growth, which is something I think all human beings must go through.&nbsp;
+But over the years, I learned it the hard way that self love – and true self-love, not narcissism – is so, so important, especially for someone who lives through the world as a woman. With that comes self-growth, which is something I think all human beings must go through.&nbsp;
 
 And for me, it was about being aware of myself, and how I work, both internally and externally. Which was how I got into MBTI anyway. And Enneagram, and all of these other personality and psychology studies. Besides the intellectual aspect of all of this, I also find actually being AWARE, the idea of staying present and noticing what's happening around me and inside me, to be integral to my self-growth.&nbsp;
 
-Because of how I learned to **feel****for the sake of others**, rather than for myself, to some extent I lost my capacity to see and take ownership for my own feelings in an authentic way. Often I am confused about my own feelings because I didn't learn how to develop my own feelings growing up. So I'm like: do I want to or do I want to because others want to?&nbsp;
+Because of how I learned to **feel&nbsp;****for the sake of others**, rather than for myself, to some extent I lost my capacity to see and take ownership for my own feelings in an authentic way. Often I am confused about my own feelings because I didn't learn how to develop my own feelings growing up. So I'm like: do I want to or do I want to because others want to?&nbsp;
 
 First, it was realizing that this loss of personal feeling was happening and that it's an issue. That was half the battle.&nbsp;
 
